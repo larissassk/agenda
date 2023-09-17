@@ -19,5 +19,4 @@ Você pode marcar seus compromissos, seus planejamentos, abaixo de 'tarefa' e em
 • CSS3
 
 ## Autor
-Larissa Manrique  
-[GitHub](https://github.com/larissassk)  
+Larissa Manrique [GitHub](https://github.com/larissassk)  
