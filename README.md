@@ -2,7 +2,7 @@
 
 * [Agenda ](#-agenda)  
 * [Funcionalidades](#%EF%B8%8F-funcionalidades)  
-* [Tecnologias utilizadas)(#tecnologias-utilizadas)    
+* [Tecnologias utilizadas](#tecnologias-utilizadas)  
 * [Autor](#autor)    
   
 # 📅 Agenda 
